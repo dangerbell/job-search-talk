@@ -206,6 +206,8 @@ Set boundaries
 - Explain a techinical concept to me like I was 5
 - Tell me about a technology you're really interested in
 
+---
+
 ### Technical Interview
 
 - ❌ Can't explain technical concepts
@@ -233,6 +235,8 @@ Set boundaries
 - Show enthusiasm for things your enjoyed working on
 - Include interests outside of software/tech
 
+---
+
 ### Bad Resume
 
 ### Nexopia
@@ -241,6 +245,8 @@ Set boundaries
 - Achieved project goals as required
 - Worked as part of a team to create software
 
+---
+
 ### Better Resume
 
 ### Nexopia (March 2008 - March 2010)
@@ -248,6 +254,8 @@ Set boundaries
 - Developed new UI components for a user-configurable website using Ruby and Javascript.
 - Involved in the full product pipeline including requirements gathering, UX design, and implementation.
 - Solved problems related to scaling servers, processes, and database to reach 10,000+ simultaneous users.
+
+---
 
 ### Risky Resume
 
