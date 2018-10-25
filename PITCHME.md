@@ -111,7 +111,7 @@ Set boundaries
 
 ---
 
-# Application system
+## Application system
 
 - Always use the preferred system to submit your application
 - Your application will get lost outside the preferred system
@@ -129,7 +129,7 @@ Set boundaries
 
 ---
 
-# HR Screening (large companies)
+### HR Screening (large companies)
 
 - Non-technical people matching resumes against job postings
 - Can you work in Canada
@@ -140,7 +140,7 @@ Set boundaries
 
 ---
 
-# Technical Screener
+### Technical Screener
 
 - Relevant job experience
 - Generic terms vs specific details
@@ -155,12 +155,16 @@ Set boundaries
 
 ---
 
-# Phone interview (phone screen)
+### Phone interview (phone screen)
 
 - Basic questions about your suitability for the jobs
 - Can work in the right country
 - Can work locally/remote
 - Confirm details in resume
+
+---
+
+### Phone interview (phone screen)
 
 - ❌ Doesn't sound interested in the job
 - ❌ Can't explain details on resume
@@ -171,13 +175,17 @@ Set boundaries
 
 ---
 
-# HR Interview
+### HR Interview
 
 - Personal question
 - Employment history
 - Tell me about a time you had to solve a difficult problem
 - Tell me about a time you had a problem with a coworker
 - What kind of interests do you have outside of work
+
+---
+
+### HR Interview
 
 - ❌ Poorly dressed
 - ❌ Smells bad
@@ -187,7 +195,7 @@ Set boundaries
 
 ---
 
-# Technical Interview
+### Technical Interview
 
 - Lots of variation
 - Trivia questions
@@ -198,13 +206,15 @@ Set boundaries
 - Explain a techinical concept to me like I was 5
 - Tell me about a technology you're really interested in
 
+### Technical Interview
+
 - ❌ Can't explain technical concepts
 - ❌ Doesn't understand requirements
 - ❌ Doesn't ask questions
 
 ---
 
-# Resume
+### Resume
 
 - Contact info, chronological employment history, educational history, interests
 - Most online info is the same
@@ -217,13 +227,13 @@ Set boundaries
 
 ---
 
-# Make your resume stand out
+### Make your resume stand out
 
 - Nice design
 - Show enthusiasm for things your enjoyed working on
 - Include interests outside of software/tech
 
-# Bad Resume
+### Bad Resume
 
 ### Nexopia
 
@@ -231,7 +241,7 @@ Set boundaries
 - Achieved project goals as required
 - Worked as part of a team to create software
 
-# Better Resume
+### Better Resume
 
 ### Nexopia (March 2008 - March 2010)
 
@@ -239,7 +249,7 @@ Set boundaries
 - Involved in the full product pipeline including requirements gathering, UX design, and implementation.
 - Solved problems related to scaling servers, processes, and database to reach 10,000+ simultaneous users.
 
-# Risky Resume
+### Risky Resume
 
 ### Nexopia (March 2008 - March 2010)
 
@@ -249,7 +259,7 @@ Set boundaries
 
 ---
 
-# Resume Tips
+### Resume Tips
 
 - Make a master resume as you are working with detailed descriptions of your accomplishments. You will forget about most of these.
 - Tailor the resume to the job posting. If it asks for front-end experience highlight that and reduce the detail on your backend jobs.
@@ -260,7 +270,7 @@ Set boundaries
 
 ---
 
-# Job Search Attitude
+### Job Search Attitude
 
 - !!! Treat it like a job !!!
 
@@ -275,7 +285,7 @@ Set boundaries
 
 ---
 
-# Interviews
+### Interviews
 
 - Check the address and time
 - Show up early
@@ -289,7 +299,7 @@ Set boundaries
 
 ---
 
-# HR Interviews
+### HR Interviews
 
 - Are you a pleasant person who can get things done?
 
@@ -302,7 +312,7 @@ Set boundaries
 
 ---
 
-# Technical Interview
+### Technical Interview
 
 ### Types
 
@@ -317,7 +327,7 @@ Set boundaries
 
 ---
 
-# Techincal Interview
+### Techincal Interview
 
 ### Tips
 
@@ -329,7 +339,7 @@ Set boundaries
 
 ---
 
-# Post-Interview
+### Post-Interview
 
 - Follow up with the interviewer, thank them for the opportunity
 - Don't dwell on bad interviews, it happens to everyone, you'll have another
@@ -337,7 +347,7 @@ Set boundaries
 
 ---
 
-# Worker Rights
+### Worker Rights
 
 - IANAL (I Am Not A Lawyer)
 
@@ -350,7 +360,7 @@ Set boundaries
 
 ---
 
-# Discrimination
+### Discrimination
 
 - Document bad behaviour
 - Find allies
@@ -358,7 +368,7 @@ Set boundaries
 
 ---
 
-# Language Issues
+### Language Issues
 
 - Communication is an important part of any job
 - Spelling and grammar mistakes are often used to eliminate job applicants
@@ -366,7 +376,7 @@ Set boundaries
 
 ---
 
-# Ethics
+### Ethics
 
 - Software developers are professionals but have no professional association
 - Software developers can cause as much or more damage as doctors, lawyers,
@@ -375,7 +385,7 @@ Set boundaries
 
 ---
 
-# Ethics
+### Ethics
 
 ### Examples
 
@@ -387,7 +397,7 @@ Set boundaries
 
 ---
 
-# Ethics
+### Ethics
 
 - Take an ethics class
 - CIPS
@@ -396,7 +406,7 @@ Set boundaries
 
 ---
 
-# General Resources
+### General Resources
 
 - University of Alberta Career Centre
 - Ask a Manager Podcast
