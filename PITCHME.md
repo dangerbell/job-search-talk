@@ -1,4 +1,8 @@
-# Title
+# Job Search and Hiring
+
+### Gregory Bell, B.Sc. '04
+
+### gregoryb@ualberta.net
 
 ---
 
@@ -37,6 +41,10 @@ Don't work for companies that don't pay you.
 # Tip #2
 
 Set boundaries
+
+---
+
+# Job Search
 
 ---
 
@@ -111,7 +119,7 @@ Set boundaries
 
 ---
 
-# Automated Screening (large companies)
+### Automated Screening (large companies)
 
 - Looking for keywords in your resume and cover letter
 
