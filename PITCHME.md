@@ -146,6 +146,10 @@ Set boundaries
 - Generic terms vs specific details
 - Anything that stands out (design, weird job, enthusiasm, personality, interests)
 
+---
+
+### Technical Screener
+
 - ❌ Spelling/grammar issues
 - ❌ Irrelvant experience
 - ❌ Padding techincal skills section
@@ -273,6 +277,11 @@ Set boundaries
 - Tailor the resume to the job posting. If it asks for front-end experience highlight that and reduce the detail on your backend jobs.
 - Make older sections shorter. They are less relevant and you will have trouble giving details and answering questions about them.
 - Don't include "skills" that you only used once for a class project
+
+---
+
+### Resume Tips
+
 - Do include skills & technologies you're using in side projects and highlight the side project
 - Link to open source code if you can or other examples of work that are publically available
 
@@ -282,7 +291,7 @@ Set boundaries
 
 - !!! Treat it like a job !!!
 
-- Get up, have a shower, get dressed, "commute" to work
+- Keep a regular work routine
 - 1 application per hour
 - Have lunch
 - More applications or work on a side project
