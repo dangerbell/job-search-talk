@@ -287,6 +287,15 @@ Set boundaries
 
 ---
 
+### Cover letters
+
+- Introduce yourself to the company
+- Highlight how your experience is directly relevant to the job posting
+- Try to show that you understand the company and are interested in it
+- Steer the reader to your biggest accomplishments
+
+---
+
 ### Job Search Attitude
 
 - !!! Treat it like a job !!!
@@ -361,6 +370,17 @@ Set boundaries
 - Follow up with the interviewer, thank them for the opportunity
 - Don't dwell on bad interviews, it happens to everyone, you'll have another
 - Do feel free to clarify things you said or work on alternate solutions
+
+---
+
+### Salary Negotiation
+
+- Come to the first interview knowing what the average salary for the job is
+- Sites like GlassDoor are very helpful
+- Always negotiate, even if you're happy with the offer, it can't hurt to ask
+- Try to avoid saying the first number, you're already at a disadvantage
+- Avoid revealing salary history or current salary
+- If asked for a number state the industry average if you can
 
 ---
 
