@@ -136,7 +136,7 @@ Set boundaries
 
 - ❌ Spelling/grammar mistakes
 - ❌ Gaps in the resume
-- ❌ Outside the guidlines on experience or technologies
+- ❌ Outside the guidelines on experience or technologies
 
 ---
 
